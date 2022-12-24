@@ -1,7 +1,6 @@
 {
   "name": "client",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html"
@@ -10,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.2.1"
+    "parcel": "^2.8.2"
   },
   "dependencies": {
     "web3": "^1.7.0"
-  }
+  },
+  "description": ""
 }
